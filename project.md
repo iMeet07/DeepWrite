@@ -5,8 +5,8 @@ sid: "117291342"
 semester: "s26"
 category: "developer-tools"
 tags: ["multi-agent", "langgraph", "content-generation", "nlp", "rag"]
-thumbnail: "REPLACE_WITH_YOUR_GOOGLE_DRIVE_THUMBNAIL_LINK"
-video: "REPLACE_WITH_YOUR_GOOGLE_DRIVE_VIDEO_PREVIEW_LINK"
+thumbnail: "https://drive.google.com/file/d/1gcT9Vu42t78BLpzFexai7Nr60_hiaue7/view?usp=sharing"
+video: "https://drive.google.com/file/d/1UsR38H6tjVJFMIPJ9dHWXZYOjvL6B5pF/view?usp=sharing"
 github: "https://github.com/iMeet07/deepwrite"
 ---
 
